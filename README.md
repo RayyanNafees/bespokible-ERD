@@ -8,7 +8,7 @@ The following projects have been take into the account of research:
 ## Tools available:
 - **[SQLFlow](https://sqlflow.gudusoft.com/)** - Just paste the db dump, choose the DBMS and generate an ordinary ER diagram
 - **[DrawDB](https://drawdb.vercel.app/editor)** - Choose DBMS > File > Import from SQL and Done! Shows schema editor etc (check the [screenshot](/chartdb.png))
-- **[Eraser.io](httpsL://eraser.io)** - Paste the db dump and generates a Color Coded diagram with AI or their [design language](https://docs.eraser.io/docs/syntax-1)
+- **[Eraser.io](https://eraser.io)** - Paste the db dump and generates a Color Coded diagram with AI or their [design language](https://docs.eraser.io/docs/syntax-1)
 - **[NotebookLM Eraser Diagram Workspace](https://notebooklm.google.com/notebook/5148d9de-4e16-4a26-b7a5-964208f10a79)** - AI diagram generators have short Contexts and might not generate accurate diagrams like SQLFlow or Graphviz does, NotebookLM is used to generate the Graphviz/Eraser Diagram code from the SQL over long contexts using AI
 
 ### Other Tools:
